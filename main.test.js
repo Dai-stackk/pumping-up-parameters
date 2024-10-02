@@ -11,21 +11,22 @@ greeting = HEY
 
 let X = 3
 x *= factor
-multiply(2)
-3*=6
+multiply(num)
+X*num=X
 
 let y = 10
-function modYBy(divisor)
-y %= divisor
-modYBy(3)
+function modYBy(num)
+y = y% num
+
 
 let 5
-function opposite(-5)
+function opposite(-z)
 
 let name = "Dai"
-function makeFullName(suffix)
-name += "Dai" + suffix
+function makeFullName(name)
+name = name + " " + name
 makeFullName("Dai Bell")
+
 
 let greeting = "HEY"
 function yellAt(name) {
