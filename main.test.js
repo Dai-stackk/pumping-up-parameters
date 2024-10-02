@@ -3,8 +3,39 @@
 Your code goes below.
 
 */
+let x = 3
+let Y = 10
+let z = 5
+let Name = Dai
+greeting = HEY
 
+let X = 3
+x *= factor
+multiply(2)
+3*=6
 
+let y = 10
+function modYBy(divisor)
+y %= divisor
+modYBy(3)
+
+let 5
+function opposite(-5)
+
+let name = "Dai"
+function makeFullName(suffix)
+name += "Dai" + suffix
+makeFullName("Dai Bell")
+
+let greeting = "HEY"
+function yellAt(name) {
+  greeting += "," + name + "!"
+  yellAt("Bob")
+  yellAt("Dai")
+  yellAt("Joe")
+  HEY += "Bob,Dai,Joe"
+  
+}
 
 
 
