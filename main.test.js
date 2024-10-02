@@ -30,11 +30,11 @@ makeFullName("Dai Bell")
 
 let greeting = "HEY"
 function yellAt(name) {
-  greeting += "," + name + "!"
-  yellAt("Bob")
+  yellAt(",")
   yellAt("Dai")
-  yellAt("Joe")
-  HEY += "Bob,Dai,Joe"
+  yellAt("!")
+  
+  greeting= greeting + "," + "name" + "!"
   
 }
 
